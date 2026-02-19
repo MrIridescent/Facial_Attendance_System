@@ -14,11 +14,12 @@ I do not merely write code; I architect digital realities. Since August 2004, I 
 ## 🚀 Overview: The 10x Evolution
 This is not a demo. This is **Renaissance 2.0**, a production-ready, TURNKEY attendance system. We have evolved from simple Jupyter Notebooks into a modular, scalable Python framework designed for the modern era.
 
-### Key Features
+### Key Revolutionary Features
+- **High-Performance Engine**: Multi-threaded face recognition with frame-skipping optimization.
+- **Modern HUD Interface**: Real-time status overlays, high-DPI support, and elegant cornered face tracking.
+- **Smart Attendance Logic**: Advanced cooldown management and session persistence to prevent log spam.
 - **Turnkey Setup**: A self-healing setup wizard that handles complex dlib installations.
-- **Production-Ready Engine**: Modular face recognition with 128-dimensional deep learning encodings.
-- **Cyber-Hardened**: A "Purple Team" approach to biometric data—no cloud, no leaks, absolute privacy.
-- **Automated Logging**: Daily timestamped CSV generation with duplicate prevention.
+- **Cyber-Hardened**: A "Purple Team" approach to biometric data—absolute local privacy.
 - **Renaissance Documentation**: Extensive research, manuals, and infographics included.
 
 ## 🛠️ Quick Start (The Noob-Friendly Way)
